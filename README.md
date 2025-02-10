@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Python bug that involves the ZeroDivisionError. The error arises because we divide by the variable 'a' without checking for the condition when 'a' becomes 0.  A robust solution is provided to handle such cases gracefully.
